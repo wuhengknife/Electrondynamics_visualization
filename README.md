@@ -1,0 +1,2 @@
+# Electrondynamics_visualization
+这是作者在大二下学期时对学到的电动力学知识做出的可视化，欢迎大家学习与参考
